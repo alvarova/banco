@@ -1,0 +1,201 @@
+#EXTM3U
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",13Max Televisión (1080p)
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",13Max Televisión (720p)
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/6miysb8.png" group-title="News",24/7 Canal de Noticias
+https://panel.dattalive.com/6605140/6605140/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="News",24/7 Canal de Noticias
+https://panel.host-live.com:19360/cn247tv/passthru.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",24/7 Canal de Noticias (720p)
+https://panel.dattalive.com/6605140/smil:6605140.smil/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/kujnLsO.png" group-title="Undefined",5TV (Corrientes) (480p)
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/kujnLsO.png" group-title="Undefined",5TV Corrientes,AR | 5TV Corrientes
+http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",A24 (720p)
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",AL Jazeera Arabic Live,AR:AL Jazeera Arabic Live
+https://live-hls-web-aja.getaj.net/AJA/02.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",AL Jazeera Mubashe,AR:AL Jazeera Mubashe
+https://live-hls-web-ajm.getaj.net/AJM/02.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR;BR;CL;CO;PA;PE" tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Undefined",ANIMESTATION (Argentina) (720p)
+https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/J7stpmb.png" group-title="Undefined",AR | Net TV,Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",AVC HD (720p)
+https://ssh101.bozztv.com/ssh101/streamavc/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="https://lh3.googleusercontent.com/-AC26znRmOW4/XrYIBNhD6kI/AAAAAAAA0g4/kn_aWJvt1cAU5lJDuPtnU75IFziaYiaygCK8BGAsYHg/s0/2020-05-08.png" group-title="Undefined",Aire de Santa Fe
+https://sc1.stweb.tv/airedigital/live/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Aire de Santa Fe (1080p)
+https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",AlternaTV (720p)
+https://alternatv.ar/stream/hls/live.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Argentinísima Satelital (540p)
+https://stream1.sersat.com/hls/argentinisima.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",AstroNet (360p)
+https://stmv1.cnarlatam.com/astronet/astronet/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Aunar (720p)
+https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Aventuras TV (360p)
+https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Azahares Radio Multimedia (720p)
+https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Bayres TV (720p)
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Beats Radio (480p)
+https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="News",CGTN Español (1080p)
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",CM El Canal de la Música (720p)
+http://g5.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",CVisión TV (720p)
+https://stream.cvisiontv.com/cvision_stream.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Cable Imagen Armstrong (540p) [Not 24/7]
+https://stream.arcast.com.ar/casse/casse/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Cadena 103 (720p) [Not 24/7]
+http://arcast.net:1935/cadena103/cadena103/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Cadena Cover's Clásicos (360p)
+https://bamus-spa-roku.amagi.tv/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Cadena V!VO (720p) [Not 24/7]
+https://stmv1.voxtvhd.com.br/cadenavivo/cadenavivo/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Calchaquí TV (480p)
+https://video.streamtvradio.com:8443/uv068/uv068/chunks.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 10 Córdoba (1080p)
+https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 10 Goya (576p)
+https://streamcasthd.com:19360/canal10goya/canal10goya.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 10 Mar del Plata (720p)
+https://g5.mc-slo.transport.edge-access.net/a15/ngrp:canal10mdq-100044_all/Playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 10 Neuquén (480p)
+https://stmv1.srvstm.com/tv10/tv10/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 10 Nortevision (576p)
+https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 10 San Rafael (480p)
+https://streamcasthd.com:1936/tvdiez/tvdiez/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 10 Televisión Salteña (720p)
+https://restreamer.el10tv.com/memfs/725003c4-79c2-4565-8311-f429db4f7777.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 10 de Junín (720p) [Not 24/7]
+https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 11 de la Costa (720p)
+https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 12 Misiones (720p)
+https://g4.vxral-slo.transport.edge-access.net/a05/ngrp:c12_live01-100129_all/Playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 13 Jujuy TV (720p)
+https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1505991107598962691/gWl-uFtn_400x400.jpg" group-title="Undefined",Canal 2 (Salta)
+https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 2 Jujuy (720p) [Not 24/7]
+https://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 2 Misiones (1080p)
+https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 2 de Ushuaia (1080p)
+https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 20 Villa María (720p)
+https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="https://www.canal21tv.com.ar/images/00Logo_canal_21_nuevo_02.png" group-title="Undefined",Canal 21 TV
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 3 Formosa (720p)
+https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 3 La Pampa (1080p)
+https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 34 San Juan (720p)
+https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 4 Balcarce (360p)
+https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 4 Jujuy (720p)
+https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/fgrauI0.png" group-title="Undefined",Canal 4 Posadas (576p)
+https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 4 San Juan (576p)
+https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 40 Caucete (720p)
+https://canalsj.kozow.com/canal40/index.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 5 Santa Fe (240p)
+https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 5 del Pueblo (360p)
+https://stmv1.cnarlatam.com/canal5pueblo/canal5pueblo/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1349114822844145665/g1zq6-8N_400x400.png" group-title="Undefined",Canal 6 (Posadas)
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 6 Mar del Plata (480p)
+https://panel.dattalive.com/8166/8166/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="Undefined",Canal 7 (Jujuy)
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 7 Neuquén (1080p)
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 7 Salta (1080p)
+https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 7 Santiago del Estero (720p)
+https://stream.arcast.com.ar/envivo/castv/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 79 La Costa (240p),Canal 79 Mar del Plata (240p)
+https://streamconex.com:19360/lacosta/lacosta.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 79 Puan (240p)
+https://streamconex.com:19360/puan/puan.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 79 Santa Clara del Mar (240p)
+https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 79 Villa Maza (240p)
+https://streamconex.com:1936/villamaza/villamaza/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 8 Mar del Plata (720p)
+https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 8 Valle de Uco (720p)
+https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 9 La Rioja (720p)
+https://inliveserver.com:1936/17012/17012/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i2.paste.pics/216f13d3a32f35802881b19c2fa39554.png" group-title="Undefined",Canal 9 Litoral
+https://stream.arcast.live/ahora/ahora/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 9 Norte Misionero (614p)
+https://panel.dattalive.com/8076/8076/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 9 Resistencia (1080p)
+http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/xqgRFpC.png" group-title="General;Undefined",Canal 9 Resistencia (720p)
+http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 9 Santa Cruz (1080p)
+https://videostream.shockmedia.com.ar:19360/canal9santacruz/canal9santacruz.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal 9 Televida (720p)
+https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="https://lh3.googleusercontent.com/-iVDSiV3mNXI/Xxoun2Z7-xI/AAAAAAAA3PY/hYRBs3H5ifoKv1w8L1qK729jzwo1xU5HgCK8BGAsYHg/s0/2020-07-23.png" group-title="Undefined",Canal 907 FM
+https://panel.dattalive.com/canal907/canal907/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal Blu (720p)
+https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal E (720p)
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal Luz (1080p)
+https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal Luz (1080p) [Not 24/7]
+https://g1.mc-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8?sense=true&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i.imgur.com/HCTvg6j.png" group-title="Undefined",Canal Provincial (360p)
+https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="https://cdn.mitvstatic.com/channels/ar_canal-rural_m.png" group-title="Undefined",Canal Rural
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="https://www.canalsantamaria.com.ar/images/santamaria_logo.jpg" group-title="Undefined",Canal Santa María (360p)
+https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal Siete (720p) [Not 24/7]
+https://vivo.solumedia.com:19360/canalsiete/canalsiete.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal de la Ciudad (360p) [Not 24/7]
+http://168.197.196.98:82/stream/channelid/1330348835?profile=pass&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Canal de la Ciudad (720p)
+https://g2.vxral-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/Playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Catamarca TV (720p)
+https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Chaco TV (720p) [Not 24/7]
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Cinco TV (480p)
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Ciudad Magazine (1080p) [Geo-blocked]
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Ciudad Mágica (720p) [Not 24/7]
+https://tv.initium.net.ar:3235/live/grupocitylive.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",CnAr Deportes (1440p)
+https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",CnAr Noticias (360p)
+https://stmv1.cnarlatam.com/cnarnoticias/cnarnoticias/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Corrientes TV (CTV) (720p)
+https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Entertainment",Cosmos TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Crónica TV (720p)
+https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Dance TV (360p)
+https://stmv1.cnarlatam.com/danncetv/danncetv/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Undefined",Demos Radio Visual (720p)
+https://panel.dattalive.com/8066/8066/playlist.m3u8?checkedby:iptvcat.org
